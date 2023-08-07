@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-9\LargeDataCollectionAssign11\LargeDataCollectionAssign11\bin\Debug\LargeDataCollectionAssign11.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-9\LargeDataCollectionAssign11\LargeDataCollectionAssign11\bin\Debug\LargeDataCollectionAssign11.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-9\LargeDataCollectionAssign11\LargeDataCollectionAssign11\bin\Debug\LargeDataCollectionAssign11.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-9\LargeDataCollectionAssign11\LargeDataCollectionAssign11\obj\Debug\LargeDataCollectionAssign11.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-9\LargeDataCollectionAssign11\LargeDataCollectionAssign11\obj\Debug\LargeDataCollectionAssign11.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-9\LargeDataCollectionAssign11\LargeDataCollectionAssign11\obj\Debug\LargeDataCollectionAssign11.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-9\LargeDataCollectionAssign11\LargeDataCollectionAssign11\obj\Debug\LargeDataCollectionAssign11.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\Day-9\LargeDataCollectionAssign11\LargeDataCollectionAssign11\obj\Debug\LargeDataCollectionAssign11.pdb
